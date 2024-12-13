@@ -83,10 +83,3 @@ Accuracy: 0.88
 ## Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-
-
-For questions or opportunities, please reach out:
-
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Your GitHub Profile](#)
